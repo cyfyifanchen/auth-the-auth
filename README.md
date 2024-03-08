@@ -1,6 +1,9 @@
 # Auth with NextAuth.js v5
 
-This is a sample project that demonstrates how to implement authentication using NextAuth.js v5.
+> [!TIP]
+> Altho it's called NextAuth, but it can be used on other things as well.
+>
+> This is a sample project that demonstrates how to implement authentication using NextAuth.js v5.
 
 ## Features
 
